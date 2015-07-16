@@ -54,7 +54,6 @@ body{
 	max-width: 500px;
 	position: absolute; */
 	z-index: 1;
-/*
 	-webkit-box-reflect: below 0px -webkit-gradient(
 		linear,
 		left top,
@@ -63,7 +62,6 @@ body{
 		color-stop(50%, transparent),
 		to(rgba(255, 255, 255, .3))
 	);
-*/
 }
 
 </style>
